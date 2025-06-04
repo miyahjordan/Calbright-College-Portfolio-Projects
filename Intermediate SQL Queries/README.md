@@ -1,6 +1,6 @@
 <h1 align="center">Intermediate SQL Queries Project</h1>
 
-<br><p align="center">A project focusing on writing and explainig SQL queries to ensure full comprehension and demonstrate skills. Made up of 5 tasks to complete and show proof of queries.</p>
+<br><p align="center">A project focusing on writing and explaining SQL queries to ensure full comprehension and demonstrate skills. Made up of 5 tasks to complete and show proof of queries.</p>
 
 <br><h2>🧭 Table of Contents</h2>
 - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-1">Task 1</a>
