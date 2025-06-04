@@ -229,13 +229,13 @@ WHERE city = 'Los Angeles'
 ```
 
 <table align='center'>
-  <tr>
-    <th>88.111</th>
-    <th>Los Angeles</th>
-  </tr>
-  <tr>
-    <th>average_quiz_points</th>
+  <tr> 
     <th>city</th>
+    <th>average_quiz_points</th>
+    </tr>
+  <tr>
+    <th>Los Angeles</th>
+    <th>88.111</th>
   </tr>
 </table>
 
