@@ -8,7 +8,7 @@
 - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-3">Task 3</a>
 - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-4">Task 4</a>
 - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-5">Task 5</a>
-- <a href="">back to main page</a>
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main">back to main page</a>
 
 <br><h2>✨ Task #1</h2>
 Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
