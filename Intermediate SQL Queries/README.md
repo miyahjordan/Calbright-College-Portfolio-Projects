@@ -4,11 +4,11 @@
 
 <br><h2 align="center">🧭 Table of Contents</h2>
 <p align="center"> 
-  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-1">Task 1</a>
-  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-2">Task 2</a>
-  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-3">Task 3</a>
-  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-4">Task 4</a>
-  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-5">Task 5</a>
+  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/main/Intermediate%20SQL%20Queries/README.md#-task-1">Task 1</a>
+  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/main/Intermediate%20SQL%20Queries/README.md#-task-2">Task 2</a>
+  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/main/Intermediate%20SQL%20Queries/README.md#-task-3">Task 3</a>
+  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/main/Intermediate%20SQL%20Queries/README.md#-task-4">Task 4</a>
+  <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/main/Intermediate%20SQL%20Queries/README.md#-task-5">Task 5</a>
   <br><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main">back to calbright projects</a>
   <br><a href="https://github.com/miyahj/Portfolio?tab=readme-ov-file">back to portfolio</a>
 </p>
