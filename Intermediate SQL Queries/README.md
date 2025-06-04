@@ -1,11 +1,13 @@
 <h1 align="center">Intermediate SQL Queries Project</h1>
 
+<br><p align="center">A project focusing on writing and explainig SQL queries to ensure full comprehension and demonstrate skills. Made up of 5 tasks to complete and show proof of queries.</p>
+
 <br><h2>🧭 Table of Contents</h2>
-- Task 1
-- Task 2
-- Task 3
-- Task 4
-- Task 5
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-1">Task 1</a>
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-2">Task 2</a>
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-3">Task 3</a>
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-4">Task 4</a>
+- <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/edit/main/Intermediate%20SQL%20Queries/README.md#-task-5">Task 5</a>
 
 <br><h2>✨ Task #1</h2>
 Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
@@ -16,6 +18,8 @@ FROM people
 ```
 
 In this query, I picked the id number, first name, last name, age, and state code columns from the people table. As a result, the query returned a table with all the columns selected and the data inside of them. The id number column produces integers from 1 to 1000, the first name column displays the first names of everyone in the table, the last name column displays the last names of everyone in the table, the age column shows the ages of everyone in the table and the state code shows the state where everyone in the table lives.
+
+
 
 <br><h2>✨ Task #2</h2>
 Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code who have a state code of CA. How many rows of data are in the result
