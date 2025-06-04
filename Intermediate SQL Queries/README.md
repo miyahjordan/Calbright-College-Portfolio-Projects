@@ -17,6 +17,7 @@ Write a SQL query that retrieves a list of all people including their id number,
 SELECT id_number, first_name, last_name, age, state_code
 FROM people
 ```
+<a href="https://sqliteonline.com/#sqltext=%23tab-name%3Dquizdata%20(1).db%0D%0ASELECT%20id_number%2C%20first_name%2C%20last_name%2C%20age%2C%20state_code%0AFROM%20people">![image](https://github.com/user-attachments/assets/9f0f6274-d603-40a4-81de-6d8c459e344b)</a>
 
 In this query, I picked the id number, first name, last name, age, and state code columns from the people table. As a result, the query returned a table with all the columns selected and the data inside of them. The id number column produces integers from 1 to 1000, the first name column displays the first names of everyone in the table, the last name column displays the last names of everyone in the table, the age column shows the ages of everyone in the table and the state code shows the state where everyone in the table lives.
 
