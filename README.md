@@ -4,4 +4,4 @@
 
 <br><h2>🧭 Table of Contents</h2>
   - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Intermediate%20SQL%20Queries">Intermediate SQL Queries</a>
-  - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Personal%20SQL%20Project">Personal SQL Project</a>
+  - <a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation">Data Presentation Project</a>
