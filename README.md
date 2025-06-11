@@ -1,7 +1,7 @@
 <h1 align= "center">Calbright College Portfolio Projects</h1>
 
 <br><p align='center'>
-A repository dedicated to my SQL projects completed at Calbright College that showcase my ability to use SQL and my problem-solving skills.
+A repository dedicated to my projects completed at Calbright College that showcase my ability to use SQL and my problem-solving skills.
 </p>
 
 <br><h2 align='center'>🧭 Table of Contents</h2>
