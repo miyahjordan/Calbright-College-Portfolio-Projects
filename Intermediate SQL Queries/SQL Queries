@@ -3,13 +3,15 @@
 SELECT id_number, first_name, last_name, age, state_code
 FROM people
 
--- Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code who have a state code of CA. How many rows of data are in the result 
+-- Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code who have a state code of CA. 
+-- How many rows of data are in the result 
 
 SELECT id_number, first_name, last_name, age, state_code
 FROM people
 WHERE state_code = 'CA'
 
--- Write a SQL query that finds the first name, last name, and age of the oldest person in the people table. Is it just one person, or are there actually multiple people who are the same age?
+-- Write a SQL query that finds the first name, last name, and age of the oldest person in the people table. 
+-- Is it just one person, or are there actually multiple people who are the same age?
 
 SELECT first_name, last_name, MAX(age) AS oldest_age
 FROM people
