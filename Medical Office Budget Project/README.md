@@ -24,6 +24,8 @@ A hypothetical medical office needs help creating a monthly budget to keep track
 ### Business Problem:
 Creating and maintaining budgets are common in many careers and play a critical role in helping a business. A fictional medical office needs help creating a budget for the fiscal year to ensure all of their needs are covered. How can we use Google Sheets to achieve this goal?
 
+<img width="1030" height="576" alt="image" src="https://github.com/user-attachments/assets/42a8d61f-7767-45b3-a667-d5fdfe6843c2" />
+
 ### Methodology:
 Utilizing spreadsheets, specifically Google Sheets, to format a budget, create forumlas, and use functions.
 
