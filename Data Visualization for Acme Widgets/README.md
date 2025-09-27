@@ -21,7 +21,9 @@ The amount of momey each associate made selling Whatsits:
 
 ### Business Problem:
 
-Visualizations in data reports help audiences understand the data better. Acme Widgets needs to create a visualization to go along with their sales report for May 2014. How can we use Google Sheets to create a dashboard for this purpose?
+<img width="2138" height="1235" alt="image" src="https://github.com/user-attachments/assets/c2c5f99d-44df-465d-a796-d18273d6c062" />
+
+<br> Visualizations in data reports help audiences understand the data better. Acme Widgets needs to create a visualization to go along with their sales report for May 2014. How can we use Google Sheets to create a dashboard for this purpose?
 
 ### Methodology:
 Use Google Sheets to create a dashboard based on the data provided.
@@ -31,4 +33,5 @@ Google Sheets: data visualization
 
 ### Results:
 
-<img width="958" height="420" alt="image" src="https://github.com/user-attachments/assets/d4bbc545-9669-452d-889c-d43f99066cfa" />
+<img width="1676" height="761" alt="image" src="https://github.com/user-attachments/assets/0e35cdc8-a24a-45a1-adcf-5743ad0a0d01" />
+
