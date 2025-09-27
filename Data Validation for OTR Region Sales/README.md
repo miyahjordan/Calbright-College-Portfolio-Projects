@@ -16,7 +16,6 @@ OTR, a fictional bakery, has a spreadsheet filled with different types of produc
 
 <img width="1107" height="362" alt="image" src="https://github.com/user-attachments/assets/c992dd70-5f67-411d-8a50-eccf209c4046" />
 
-
 ### Methodology:
 Using Google Sheets to validate and format data.
 
@@ -24,6 +23,9 @@ Using Google Sheets to validate and format data.
 Google Sheets: data validation, conditional formatting, named ranges
 
 ### Results:
+
+<img width="932" height="311" alt="image" src="https://github.com/user-attachments/assets/c6fab128-7e4a-4248-8d59-66083a738d86" />
+
 There are five invalid products in the spreadsheet, located in cells C35, C54, C75, C223, and C283. The invalidation is due to mispelling multiple products.
 
 ### Next Steps:
