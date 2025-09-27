@@ -21,7 +21,7 @@ FROM people
 SELECT DISTINCT p.city, s.state_name, p.state_code
 FROM people p
 LEFT JOIN states s
-ON p,state_code = s.state_abbrev
+ON p.state_code = s.state_abbrev
 ORDER BY s.state_name, p.city
 
 -- Write a SQL query that finds the average quiz points value for people from the City of Los Angeles.
