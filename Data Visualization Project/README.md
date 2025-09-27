@@ -1,4 +1,4 @@
-<h1 align='center'></h1>
+<h1 align='center'>Data Visualization for Acme Widgets</h1>
 
 <h3>Executive Summary:</h3>
 
