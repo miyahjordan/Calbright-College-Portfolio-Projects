@@ -1,8 +1,8 @@
-<h1 align='center'>Intermediate SQL Queries</h1>
+<h1 align='center'>Intermediate SQL Queries - Population Data</h1>
 
 <h3>Executive Summary:</h3>
-  Calbright college provided a database filled with fabricated population data to allow students to practice using SQL. Using MySQL, I pulled data from the database to answer 5 exploratory data analysis questions pertaining to the project:
-    <ul>1. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
+  Using MySQL, I pulled data from the database to answer 5 exploratory data analysis questions pertaining to the project:
+    <ul><br>1. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
     <br>2. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code who have a state code of CA. How many rows of data are in the result?
     <br>3. Write a SQL query that finds the first name, last name, and age of the oldest person in the people table. Is it just one person, or are there actually multiple people who are the same age?
     <br>4. Write a SQL query that lists the city, state code, and state name for every record in the people table.
@@ -15,7 +15,7 @@
     <br>5. The average quiz point value from people living in Los Angeles is 88.111</ul>
 
 <h3>Business Problem:</h3>
-  
+  Retreiving data from a database is essential to conudcting data analysis. Calbright college provided a dataset filled with fabricated population data across the United States so students can display their SQL skills. Five questions were assigned to conduct exploratory analysis on the dataset, how can we use SQL queries to answer them?
 
 <h3>Methodology:</h3>
   1. SQL query that transforms and extracts data from the database.
