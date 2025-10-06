@@ -4,12 +4,9 @@
 A hypothetical bakery needs help ensuring the products in their spreadsheet are entered properly. Through Google Sheets, I used data validation techniques to help identify any invalid products in the spreadsheet. The technqiue should also answer the questions:
 
 1. How many invalid product values are there?
+   - There are five invalid products.
 2. Provide the locations of all the Product cells that were invalid (Example: C7, C18, C123)
-
-After performing the data validation, I was able to find the answers to the questions:
-
-1. There are five invalid products
-2. The invalid products are located in C35, C54, C75, C223, and C283
+   - The invalid products are located in C35, C54, C75, C223, and C283.
 
 ### Business Problem:
 OTR, a fictional bakery, has a spreadsheet filled with different types of products sold in each region across the world. The names of the products are manually inserted into the spreadsheet, so they need to ensure the values are correct. How can we use data validation to ensure the products are entered correctly?
@@ -20,7 +17,7 @@ OTR, a fictional bakery, has a spreadsheet filled with different types of produc
 Using Google Sheets to validate and format data.
 
 ### Skills:
-Google Sheets: data validation, conditional formatting, named ranges
+Data validation, Conditional formatting, Named ranges
 
 ### Results:
 
