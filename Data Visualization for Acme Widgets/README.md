@@ -29,7 +29,7 @@ The amount of momey each associate made selling Whatsits:
 Use Google Sheets to create a dashboard based on the data provided.
 
 ### Skills:
-Google Sheets: data visualization
+Data visualization
 
 ### Results:
 
