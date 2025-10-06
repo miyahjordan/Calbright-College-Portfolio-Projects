@@ -30,7 +30,7 @@ Creating and maintaining budgets are common in many careers and play a critical 
 Utilizing spreadsheets, specifically Google Sheets, to format a budget, create forumlas, and use functions.
 
 ### Skills:
-Google Sheets: formatting, formulas, functions
+Formatting, Formulas, Functions
 
 ### Results:
 
