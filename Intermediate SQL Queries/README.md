@@ -22,7 +22,7 @@ Retreiving data from a database is essential to conudcting data analysis. Calbri
 Creating SQL queries that transforms and extracts data from the database.
 
 ### Skills:
-SQL: Joins, Aggregate functions
+Joins, Aggregate functions
 
 ### Results:
 1. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
