@@ -10,7 +10,7 @@
   <br>2. <a href="Data Validation for OTR Region Sales">Data Validation Project - OTR Region Sales</a>
   <br>3. <a href="Data Visualization for Acme Widgets">Data Visualization Project - Acme Widgets</a>
   <br>4. <a href="Intermediate SQL Queries">Intermediate SQL Queries</a>
-  <br>5. <a href="Data Presentation">Data Presentation Project*</a>
+  <br>5. <a href="Video Game Sales Analysis and Forecasting">Video Game Sales Analysis and Forecasting*</a>
 </p>
 
 <h3 align= "center"><a href='https://github.com/miyahj/Portfolio/tree/main'>main portfolio</a></h3>
