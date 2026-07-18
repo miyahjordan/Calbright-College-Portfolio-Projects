@@ -1,4 +1,4 @@
-<h1 align='center'>Video Game Sales Analysis and Forecasting</h1>
+<h1 align='center'>Analyzing Customer Churn for a Streaming Service</h1>
 
 ### Executive Summary:
 
