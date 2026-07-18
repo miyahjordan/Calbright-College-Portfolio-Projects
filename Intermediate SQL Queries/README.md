@@ -2,21 +2,21 @@
 
 ### Executive Summary:
 Using MySQL, I pulled data from the database to answer 5 exploratory data analysis questions pertaining to the project:
-    
+
 1. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code.
-   - There are 1000 rows in the database
+    - There are 1000 rows in the database
 2. Write a SQL query that retrieves a list of all people including their id number, first name, last name, age, and state code who have a state code of CA. How many rows of data are in the result?
-   - There are 127 rows of data for every resident that lives in California
+    - There are 127 rows of data for every resident that lives in California
 3. Write a SQL query that finds the first name, last name, and age of the oldest person in the people table. Is it just one person, or are there actually multiple people who are the same age?
-   - The oldest age in the database is 60 years old, and the oldest person is Paula Montgomery
+    - The oldest age in the database is 60 years old, and the oldest person is Paula Montgomery
 4. Write a SQL query that lists the city, state code, and state name for every record in the people table.
 5. Write a SQL query that finds the average quiz points value for people from the City of Los Angeles.
-   - The average quiz point value from people living in Los Angeles is 88.111
-  
+    - The average quiz point value from people living in Los Angeles is 88.111
+
 After answering the questions, I documented my queries, the results, and an explanation of my findings:
 
 ### Business Problem:
-Retreiving data from a database is essential to conudcting data analysis. Calbright college provided a dataset filled with fabricated population data across the United States so students can display their SQL skills. Five questions were assigned to conduct exploratory analysis on the dataset, how can we use SQL queries to answer them?
+Retrieving data from a database is essential to conducting data analysis. Calbright College provided a dataset filled with prepared population data across the United States. Five questions were assigned to conduct exploratory analysis on the dataset, how can we use SQL queries to answer them?
 
 ### Methodology:
 Creating SQL queries that transforms and extracts data from the database.
