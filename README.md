@@ -6,7 +6,7 @@
   <br>2. <a href="Data Validation for OTR Region Sales">Data Validation Project - OTR Region Sales</a>
   <br>3. <a href="Data Visualization for Acme Widgets">Data Visualization Project - Acme Widgets</a>
   <br>4. <a href="Intermediate SQL Queries">Intermediate SQL Queries</a>
-  <br>5. <a href="Analyzing Customer Churn for a Streaming Service</a>
+  <br>5. <a href="Analyzing Customer Churn for a Streaming Service">Analyzing Customer Churn for a Streaming Service</a>
 </p>
 
 <h3 align= "center"><a href='https://github.com/miyahj/Portfolio/tree/main'>main portfolio</a></h3>
