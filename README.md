@@ -1,9 +1,5 @@
 <h1 align= "center">Calbright College Portfolio Projects</h1>
 
-<p align='center'> 
-  Projects with an asterisk (*) next to them are <b>in progress</b>
-</p>
-
 <h2 align='center'>🧭 Table of Contents</h2>
 <p align='center'>
   1. <a href="Medical Office Budget Project">Medical Office Budget</a>
